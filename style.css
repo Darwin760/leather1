@@ -1,0 +1,70 @@
+header{
+    color: #0ef2ee7b;
+    background-color: azure;
+    font: size 500px;
+    text-align: center;
+    background-image: url(https://cdn.jwplayer.com/v2/media/39aU725e/thumbnails/O4PA1XBT.jpg);
+    background-size: cover;
+    height: 700px; 
+    width: 1920px;
+}
+
+main{
+    height: 900px;
+    width: 1920px;
+    
+
+}
+.container{
+    height: 900px;
+    width: 1920px;
+    max-width: 100%;
+    background-color: rgb(255, 255, 255);
+}
+.block1{
+    width: 50%;
+    float: left;
+    background-color: rgb(255, 255, 255);
+    font-size: 35px;
+    text-align:center;
+    text-decoration: double;
+} 
+.block2{
+    width: 50%;
+    float: right;
+    background-color:rgb(255, 255, 255);
+}
+.block3{
+  height: 450px;
+  background-color: rgb(255, 255, 255);
+}
+.block4{
+height: 450px;
+background-color: rgb(255, 255, 255);
+}
+
+
+footer{
+    height: 75px ; 
+
+    background-color: rgb(202, 185, 164);
+    text-align: center;
+    font-size:50px ;
+    color: rgba(0, 0, 0, 0.846);
+    }
+.social img{
+    width: 100px;
+    padding-left: 10px;
+}
+.social{
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+.social2{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    padding-left: 830px;
+}
+
